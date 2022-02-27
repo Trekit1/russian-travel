@@ -1,5 +1,4 @@
 .header__lang-links {
-    display: flex;
-    align-items: flex-end;
-    min-height: 30px;
+  display: flex;
+  list-style-type: none;
   }
