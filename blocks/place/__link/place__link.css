@@ -13,6 +13,6 @@
     transition: opacity 0.3s linear 0s;
   }
   
-  .place__website_link:hover {
+  .place__link:hover {
     opacity: 0.8;
   }

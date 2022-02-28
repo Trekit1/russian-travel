@@ -1,4 +1,11 @@
 .header__lang-links {
+  padding: 0;
+  margin: 0;
   display: flex;
+  align-items: flex-end;
   list-style-type: none;
   }
+
+.header__lang-links:first-child {
+  margin: 0;
+}
